@@ -1,0 +1,9 @@
+model\Categoria.class
+dao\CategoriaDAO.class
+vista\VentanaInventario.class
+vista\VentanaInventario$1.class
+model\Producto.class
+com\mycompany\inventariotienda\InventarioTienda.class
+App.class
+dao\ProductoDAO.class
+conexion\Conexion.class
