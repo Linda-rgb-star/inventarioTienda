@@ -1,0 +1,12 @@
+
+
+# Archivos generados por Maven
+target/
+
+# Archivos de NetBeans
+nbproject/private/
+build/
+
+# Archivos temporales
+*.log
+*.tmp
